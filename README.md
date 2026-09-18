@@ -7,8 +7,6 @@ The project is developped using Java and uses basic Object-Oriented Programming.
 
 ---
 
-
-
 ## Features
 The features of the Library Management System are as follows:
 Add new books
