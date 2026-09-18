@@ -23,7 +23,6 @@ Generate library report
 Validate basic user input
 Save basic book information using file handling
 
-
 ---
 
 ## Technologies and tools used
