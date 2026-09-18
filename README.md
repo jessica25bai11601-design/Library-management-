@@ -5,7 +5,6 @@ Library Management System is a Java application that runs on a command-line inte
 The system can add and manage books, add and register library members, issue and return books, search records and generate library status report on the current status of the library.
 The project is developped using Java and uses basic Object-Oriented Programming.
 
-
 ---
 
 ## Features
